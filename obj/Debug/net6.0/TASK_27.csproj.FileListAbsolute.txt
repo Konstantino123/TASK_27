@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\bin\Debug\net6.0\TASK_27.exe
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\bin\Debug\net6.0\TASK_27.deps.json
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\bin\Debug\net6.0\TASK_27.runtimeconfig.json
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\bin\Debug\net6.0\TASK_27.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\bin\Debug\net6.0\TASK_27.pdb
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\refint\TASK_27.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.pdb
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\TASK_27.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\TASK_27\TASK_27\obj\Debug\net6.0\ref\TASK_27.dll
